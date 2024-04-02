@@ -1,3 +1,2 @@
-Static void main(){
-	System.out.println("Bonjour");
-}
+System.out.println("Bonjour"}
+FIchier 2
